@@ -2,7 +2,7 @@
 
 ## 1.6.1-carto.1
 
-**Release date**: 2018-04-13
+**Release date**: 2018-04-16
 
 Changes:
 - Fix bug that group together features with same value but different type; for example int(0) and bool(false)
